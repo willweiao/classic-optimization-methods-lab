@@ -1,0 +1,28 @@
+==================================================
+Optimizing Problem: 'Quadratic'
+Starting Point x0 = [3. 4.]
+==================================================
+
+--- Running: Gradient Descent ---
+Converged after 37 iterations.
+  Status: Converged
+  Found Minimum: [ 9.85060766e-28 -2.45751677e-07]
+  Objective Value: 0.000000
+  Iterations: 37
+
+--- Running: Newton's Method ---
+Newton converged after 1 iterations.
+  Status: Converged
+  Found Minimum: [0. 0.]
+  Objective Value: 0.000000
+  Iterations: 1
+
+--- Running: BFGS ---
+Curvature condition failed.
+  Status: Converged
+  Found Minimum: [-9.91330529e-07 -4.39735644e-07]
+  Objective Value: 0.000000
+  Iterations: 7
+
+--- Generating Plots ---
+Plots displayed. Close plot windows to terminate the program.

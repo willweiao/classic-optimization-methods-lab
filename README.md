@@ -1,0 +1,1 @@
+This a documentation of the course work from previous course of numerical analysis. This project is part of a course assignment. Some code is adapted from open-source projects. I mainly worked on filling in missing parts and making improvements as a learning exercise. For educational use only. Credits to the original authors.

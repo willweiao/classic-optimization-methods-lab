@@ -1,0 +1,28 @@
+==================================================
+Optimizing Problem: 'Rosenbrock'
+Starting Point x0 = [0. 0.]
+==================================================
+
+--- Running: Gradient Descent ---
+Did not converge within max_iter.
+  Status: Converged
+  Found Minimum: [0.90260012 0.81466755]
+  Objective Value: 0.009487
+  Iterations: 1000
+
+--- Running: Newton's Method ---
+Newton converged after 2 iterations.
+  Status: Converged
+  Found Minimum: [1. 1.]
+  Objective Value: 0.000000
+  Iterations: 2
+
+--- Running: BFGS ---
+Curvature condition failed.
+  Status: Converged
+  Found Minimum: [1.00000039 1.00000075]
+  Objective Value: 0.000000
+  Iterations: 22
+
+--- Generating Plots ---
+Plots displayed. Close plot windows to terminate the program.
