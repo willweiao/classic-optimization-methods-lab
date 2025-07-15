@@ -1,0 +1,29 @@
+============================================================
+KKT Conditions & Penalty Method Demonstration
+============================================================
+Analytical KKT Solution: [0.70710678 0.70710678]
+------------------------------------------------------------
+Solving with penalty rho = 1...
+Converged after 31 iterations.
+  Numerical solution: [0.89816091 0.89816095]
+  Error (L2 norm):   0.270191
+
+Solving with penalty rho = 10...
+Converged after 41 iterations.
+  Numerical solution: [0.73679155 0.73679155]
+  Error (L2 norm):   0.041981
+
+Solving with penalty rho = 100...
+Converged after 31 iterations.
+  Numerical solution: [0.71030922 0.71030922]
+  Error (L2 norm):   0.004529
+
+Solving with penalty rho = 1000...
+Converged after 41 iterations.
+  Numerical solution: [0.7074297 0.7074297]
+  Error (L2 norm):   0.000457
+
+Solving with penalty rho = 10000...
+Did not converge within max_iter.
+  Numerical solution: [0.7071391 0.7071391]
+  Error (L2 norm):   0.000046
